@@ -13,3 +13,15 @@ I am reliable hard-working person, i have a good leadership qualities, flexibili
 * Figma
 * Adobe Photoshop
 * Adobe Illustrator
+
+## Experience
+#### FastoGT
+* Web-designer
+
+## Education
+#### School of business of BSU
+* Business administration
+
+## English
+#### B1
+---
