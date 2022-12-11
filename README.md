@@ -1,1 +1,1 @@
-# CV
+# https://zalesskayaa.github.io/rsschool-cv/
