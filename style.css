@@ -1,3 +1,28 @@
 * {
-    margin: auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0 auto;
+}
+
+body{
+    min-height: 100vh;
+    margin: 0; padding: 0;
+}
+
+.line{
+    margin: 10px 0;
+}
+
+.footer{
+    padding: 20px;
+    display: flex;
+}
+
+.links-footer{
+    margin: 0 10px;
+}
+
+.logo-image{
+    margin: 0 10px;
+    width: 80px;
 }
