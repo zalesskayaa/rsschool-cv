@@ -1,12 +1,37 @@
 * {
-    margin: 0 auto;
+    margin: 0;
     box-sizing: border-box;
-    padding: 0 auto;
+    padding: 0;
+}
+
+.navigation-items{
+    padding: 15px 0;
+    display: flex;
+    list-style: none;
+}
+
+.items-links{
+    margin-right: 20px;
+    color: #202020;
+}
+
+.main-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wrapper{
+    margin: 0 auto;
+}
+
+.items-list{
+    padding-left: 20px;
 }
 
 body{
+    display: flex;
     min-height: 100vh;
-    margin: 0; padding: 0;
 }
 
 .line{
@@ -14,7 +39,7 @@ body{
 }
 
 .footer{
-    padding: 20px;
+    padding: 20px 0;
     display: flex;
 }
 
@@ -23,6 +48,5 @@ body{
 }
 
 .logo-image{
-    margin: 0 10px;
     width: 80px;
 }
